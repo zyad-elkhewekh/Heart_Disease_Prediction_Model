@@ -6,8 +6,7 @@ A machine learning web app that predicts the likelihood of heart disease based o
 
 ## 📌 Demo
 
-👉 [Try the Live App](https://your-app-link.streamlit.app)  
-(*Note: replace this with your real link*)
+👉 [Try the Live App]([https://your-app-link.streamlit.app](https://heartdiseasepredictionmodel-ebdzxhmphqeyztxnmaedhd.streamlit.app/))  
 
 ---
 
@@ -17,9 +16,9 @@ heart_disease_prediction_model/
 │
 ├── ui/
 │ ├── app.py # Streamlit UI script
-│ └── final_model.pkl # Trained ML model (Random Forest)
+│ └── final_model.pkl # Trained ML model
 │
-├── data/ # (Optional) Dataset files
+├── data/ # Dataset files
 │
 ├── requirements.txt # Python dependencies
 └── README.md # You're here
@@ -46,7 +45,7 @@ Edit
 
 - **Model:** Random Forest Classifier  
 - **Libraries:** scikit-learn, pandas, numpy, joblib  
-- **Training notebook:** Done in Jupyter (not included here)
+- **Training notebook:** Done in Jupyter
 
 ---
 
