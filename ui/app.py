@@ -3,7 +3,13 @@ import numpy as np
 import joblib
 # with open("final_model.pkl", "rb") as file:
 #     model = pickle.load(file)
-model = joblib.load('final_model.pkl')
+
+#model = joblib.load('final_model.pkl')
+
+import os
+model_path = os.path.join(os.path.dirname(__file__), 'final_model.pkl')
+model = joblib.load(model_path)
+
 
 st.title("Heart Disease Prediction App")
 st.write("Enter patient details to predict whether they are likely to have heart disease.")
