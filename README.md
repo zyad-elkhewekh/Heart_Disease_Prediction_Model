@@ -6,8 +6,8 @@ A machine learning web app that predicts the likelihood of heart disease based o
 
 ## 📌 Demo
 
-👉 [Try the Live App]([https://your-app-link.streamlit.app](https://heartdiseasepredictionmodel-ebdzxhmphqeyztxnmaedhd.streamlit.app/))  
-
+👉 [Try the Live App][(https://heartdiseasepredictionmodel-ebdzxhmphqeyztxnmaedhd.streamlit.app/) 
+]
 ---
 
 ## 📂 Project Structure
